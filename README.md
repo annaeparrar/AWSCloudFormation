@@ -1,5 +1,9 @@
 # Desafio DIO: Implementando Infraestrutura Automatizada com AWS CloudFormation
+# Desafío DIO: Implementando mi Primera Stack con AWS CloudFormation
+# Anna Elizabeth Parra Rausseo
+# https://github.com/annaeparrar/
 
+> **Status:** Concluído
 
 ## Objetivo
 
